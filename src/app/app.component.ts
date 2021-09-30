@@ -11,4 +11,7 @@ export class AppComponent {
   getAlert() {
     alert('hello From Angular');
   }
+  getAbout() {
+    alert('you are clicked on abutbtn');
+  }
 }
